@@ -1,5 +1,5 @@
 {
-  "name": "scaffold",
+  "name": "scaffold-ck",
   "version": "1.0.0",
   "description": "This is a scaffolding tool.",
   "main": "index.js",
@@ -15,7 +15,12 @@
     "javascript"
   ],
   "author": "curtis_kim",
-  "license": "ISC",
+  "license": "MIT",
+  "homepage": "https://github.com/curtisJin",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/curtisJin/scaffold"
+  },
   "dependencies": {
     "commander": "^9.4.1",
     "download-git-repo": "^3.0.2",
